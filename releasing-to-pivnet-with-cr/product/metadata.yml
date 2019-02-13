@@ -1,0 +1,18 @@
+---
+# This file is sufficient for a beta/admin release. You may need
+# to include more fields than this to be accepted for GA
+release:
+  version: "0.1.17"
+  release_type: Developer Release
+  release_date: 2019-2-13
+  eula_slug: "pivotal_beta_eula"
+  description: |
+    Multiline,
+    description goes here
+  availability: Admins Only
+product_files:
+  - file: product-example.pivotal
+    upload_as: The Test Tile
+    description: |
+      description for the file
+      not to be confused with the release description

@@ -1,0 +1,11 @@
+{
+  "params": {
+    "file_glob": "*.pivotal",
+    "metadata_file": "metadata.yml"
+  },
+  "source": {
+    "api_token": "THIS-GETS-REPLACED-BY-THE-SCRIPT",
+    "product_slug": "your-product-slug-on-pivnet"
+  }
+}
+
